@@ -1,3 +1,4 @@
 /.vscode  
 *.md
+!README.md
 !/Minutes/template/*.md
